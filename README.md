@@ -2,7 +2,7 @@
 ## Lista de exercicios em C
 
 ### Sobre o projeto:
-> Repositório criado para armazenar os exercicios feitas pela matéria de Estrutura de Dados, ministrada pelo Docente Hilário Seibert, e que utilizada linguagem C, tendo em vista que os exercicios eram de cunho facultativo.
+> Repositório criado para armazenar os exercicios feitas pela matéria de Estrutura de Dados, ministrada pelo Docente Thiago Meireles Paixão, e que utilizada linguagem C, tendo em vista que os exercicios eram de cunho facultativo.
 
 Aluno | GitHub | LinkedIn
 :-----------------------:| :--------------: | :------------:
